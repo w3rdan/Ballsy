@@ -1,6 +1,19 @@
 ----------------------------
-       BALLSY
+  BALLSY GAME
 ----------------------------
 
 html5 canvas game
---
+
+Info:
+Clear the stage to remove all balls.
+Try to connect to current target and press SPACE to remove it.
+The closer to the center you are, more points you get.
+
+Controls:
+X, C - move
+X, C + ctrl - fast move
+space  - remove a ball
+
+PS.
+Game created just for canvas testing and learning.
+
